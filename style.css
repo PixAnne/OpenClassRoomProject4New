@@ -13,6 +13,8 @@ button {
     outline: none!important;
 }
 
+
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -51,6 +53,7 @@ a:hover {
 .bloc-md {
     padding: 50px;
 }
+
 
 .bloc-sm {
     padding: 20px 50px;
@@ -678,6 +681,19 @@ a {
 
 p {
     font-size: 11px;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.auteur {
+    font-size: 15px;
+}
+
+.text-center p {
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
